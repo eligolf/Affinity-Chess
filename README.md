@@ -38,6 +38,7 @@ Move generation and the make/unmake move functions are working, but are relative
 Too many percent of search is now spent in quiescence search. Future versions will try to reduce this to get a better branching factor and therefore search fewer nodes. 
 
 ## How to play
+Download the release you want to use from the [release page](https://github.com/eligolf/Affinity-Chess/releases). You can then install the engine in your favourite Chess GUI (e.g. [Arena](http://www.playwitharena.de/) or [Cute Chess](https://cutechess.com/)) and play against it from there. 
 
 ## Bugs or support
 Please let me know if you find any bugs with the engine, or if you need any support in how to set it up. Also let me know if there are any features you are currently missing and I will try to implement them in coming versions. 
