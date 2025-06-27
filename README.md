@@ -1,5 +1,5 @@
 # Affinity Chess
-A chess engine written in C# as a hobby project to learn more about C# and programming in general. The code is heavily commented for my own benefit, maybe it will also help someone else.
+A chess engine written in C# as a hobby project.
 
 ## General information
 Affinity Chess is developed with the following basic concepts:
